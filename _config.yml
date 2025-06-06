@@ -1,2 +1,8 @@
-title: Dr. Medha Pujari`s Homepage
+title: Dr. Medha Pujari
 theme: minima
+description: 
+
+header_pages:
+  - about.md
+  - publications.md
+  - other.md
