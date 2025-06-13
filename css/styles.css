@@ -49,18 +49,18 @@ body {
 
 .details {
   flex-grow: 1;
-  font-size: 5em;
+  font-size: 1.8em;
 }
 
 .name {
-  font-size: 2em;
+  font-size: 3em;
   font-weight: bold;
   color: #003366;
   margin-bottom: 10px;
 }
 
 .title {
-  font-size: 1.1em;
+  font-size: 1.8em;
   margin-bottom: 20px;
   line-height: 1.6;
 }
