@@ -49,6 +49,7 @@ body {
 
 .details {
   flex-grow: 1;
+  font-size: 1.1em;
 }
 
 .name {
@@ -65,7 +66,7 @@ body {
 }
 
 .contact {
-  font-size: 1em;
+  font-size: 1.1em;
   line-height: 1.6;
 }
 
