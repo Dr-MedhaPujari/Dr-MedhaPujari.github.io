@@ -1,8 +1,3 @@
-title: Dr. Medha Pujari
-theme: minima
-description: 
-
-header_pages:
-  - about.md
-  - publications.md
-  - other.md
+title: "Dr. Medha Pujari"
+theme: null
+markdown: kramdown
