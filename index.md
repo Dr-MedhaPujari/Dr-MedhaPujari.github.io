@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/styles.css">
 
 <div class="container">
   <div>
