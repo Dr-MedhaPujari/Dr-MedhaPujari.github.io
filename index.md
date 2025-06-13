@@ -14,6 +14,8 @@ title: Home
       <a href="#">My CV</a>
       <a href="#">Teaching</a>
       <a href="#">Publications</a>
+      <a href="#">Google Scholar</a>
+      <a href="#">ORCID</a>
     </div>
   </div>
 
